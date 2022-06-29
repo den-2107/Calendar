@@ -1,6 +1,6 @@
 # Calendar
 
-**Calendar** - web application,, created in React.js using the moment.js. This application can be used in other SPA websites, pre-edited or used by default.
+**Calendar** - web application, created in React.js using the moment.js. This application can be used in other SPA websites, pre-edited or used by default.
 
 ## Screenshots
 ### Main page
